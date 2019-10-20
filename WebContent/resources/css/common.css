@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.row div{
+  padding-top: 1%;
+  display: inline-block;
+  border-bottom-style: double;
+  border-width: 1px;
+   width: 16%;
+  
+}
+
+
+#content {
+  min-width: 50%;
+}
